@@ -3,5 +3,5 @@
 echo "version "2.2.0"
 =======
  ### test_app.bat - 2015 - Massamba Sene ###
- echo "version "1.2.0-b"
->>>>>>> update minor version
+ echo "version 1.2.1"
+>>>>>>> update minor master version
