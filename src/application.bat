@@ -1,4 +1,6 @@
- ### application.bat - 2015 - Massamba Sene ###
- echo "Copyright Queen Consolidated - 2015"
- echo "Build : 10:00"
- echo "version 1.1"
+### application.bat - 2015 - Massamba SENE ###
+version = "2"
+build_hour = "11H00"
+
+echo "Build ${build_hour}"
+echo "version ${version}"
