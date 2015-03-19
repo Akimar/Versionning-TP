@@ -3,4 +3,5 @@
 echo "version "2.2.0"
 =======
  ### test_app.bat - 2015 - Massamba Sene ###
->>>>>>> add partner name
+ echo "version "1.2.0-b"
+>>>>>>> update minor version
